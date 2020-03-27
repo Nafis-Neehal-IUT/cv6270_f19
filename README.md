@@ -1,5 +1,5 @@
 # cv6270_f19
-Repository contains all my assignment codes of Computational Vision CSCI 6270 course at RPI on Fall 2019. 
+Repository contains all my assignment codes of Computational Vision CSCI 6270 course at RPI on Fall 2019, instructed by Professor Chuck Stewart. 
 
 1. HW1 contains - Image rescaling, Image shading with masks, Image similarity measurement, Image checkerboard reproduce
 2. HW2 contains - Closest point form of best fitting line, RANSAC algorithm, Composite image with focus adjustment
